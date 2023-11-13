@@ -4,7 +4,7 @@
 ## Below you can see my skills:
 
 ### Language:
-<img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/python/python-original-wordmark.svg" width="50" height="50">
+<img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/python/python-original-wordmark.svg" width="50" height="50" title="Python" alt="Python"/>
 
 
 ---
@@ -32,7 +32,7 @@
 ---
 ### Databases:
 <div>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/mysql/mysql-original-wordmark.svg" width="60" height="60" title="Jupyter Notebook" alt="Jupyter Notebook"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/mysql/mysql-original-wordmark.svg" width="60" height="60" title="MySQL" alt="MySQL"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/postgresql/postgresql-original-wordmark.svg" width="60" height="60" title="PostgreeSQL" alt="PostgreeSQL"/>&nbsp;
 </div>
 
