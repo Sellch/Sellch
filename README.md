@@ -57,6 +57,6 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/Stepik_logotype.png" width="50" height="50" title="Stepik" alt="Stepik"/>
     </a>
     <a href="https://www.coursera.org/user/6730e93c0b0f86c318c84e95c7345378">
-        <img src="https://149357281.v2.pressablecdn.com/wp-content/uploads/2020/12/android-chrome-512x512-1.png" width="50" height="50" title="Coursera" alt="Coursera"/>
+        <img src="https://www.langoly.com/wp-content/uploads/2021/09/coursera-logo.png" width="50" height="50" title="Coursera" alt="Coursera"/>
     </a>
 </div>
