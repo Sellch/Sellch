@@ -9,7 +9,11 @@
 
 
 ## ML tools:
-<img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/jupyter/jupyter-original-wordmark.svg" width="50" height="50">
+<div>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/jupyter/jupyter-original-wordmark.svg" width="50" height="50" title="Jupyter Notebook" alt="Jupyter Notebook"/>&nbsp;
+  <img src="https://user-images.githubusercontent.com/67586773/105040771-43887300-5a88-11eb-9f01-bee100b9ef22.png" width="50" height="50" title="NumPy" alt="NumPy"/>&nbsp;
+  <img src="https://user-images.githubusercontent.com/67586773/105040771-43887300-5a88-11eb-9f01-bee100b9ef22.png" width="50" height="50" title="NumPy" alt="NumPy"/>&nbsp;
+</div>
 <img src="https://user-images.githubusercontent.com/67586773/105040771-43887300-5a88-11eb-9f01-bee100b9ef22.png" width="50" height="50">
 <img src="https://raw.githubusercontent.com/devicons/devicon/
 55609aa5bd817ff167afce0d965585c92040787a/icons/pandas/pandas-original-wordmark.svg" width="50" height="50">
@@ -41,3 +45,11 @@
 
 
 
+
+
+
+<div>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/jupyter/jupyter-original-wordmark.svg" width="50" height="50" title="Jupyter Notebook" alt="Jupyter Notebook"/>&nbsp;
+  <img src="https://user-images.githubusercontent.com/67586773/105040771-43887300-5a88-11eb-9f01-bee100b9ef22.png" width="50" height="50" title="NumPy" alt="NumPy"/>&nbsp;
+  <img src="https://user-images.githubusercontent.com/67586773/105040771-43887300-5a88-11eb-9f01-bee100b9ef22.png" width="50" height="50" title="NumPy" alt="NumPy"/>&nbsp;
+</div>
