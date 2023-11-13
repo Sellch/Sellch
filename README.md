@@ -1,4 +1,4 @@
-# Hi there 👋 My name is Yaroslav and nice to see you on my repositories page :pager:
+# My name is Yaroslav and welcome to my github profile👋:pager:
 
 
 ## Below you can see my skills:
@@ -44,7 +44,7 @@
 
 ---
 
-### My resume you may found on this resourse:
+### My resume is available here:
 <a href="https://clck.ru/36aJQN">
       <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/HeadHunter_logo.png" width="45" height="45" title="hh.ru" alt="hh.ru"/>
 </a>
