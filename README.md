@@ -46,9 +46,17 @@
 
 ### My resume you may found on this resourse:
 <a href="https://clck.ru/36aJQN">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/HeadHunter_logo.png" width="40" height="40" title="hh.ru" alt="hh.ru"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/HeadHunter_logo.png" width="45" height="45" title="hh.ru" alt="hh.ru"/>
 </a>
 
+---
 
-
-
+### My learning activity:
+<div>
+    <a href="https://stepik.org/users/344916841/profile">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/Stepik_logotype.png" width="50" height="50" title="Stepik" alt="Stepik"/>
+    </a>
+    <a href="https://www.coursera.org/user/6730e93c0b0f86c318c84e95c7345378">
+        <img src="https://149357281.v2.pressablecdn.com/wp-content/uploads/2020/12/android-chrome-512x512-1.png" width="50" height="50" title="Coursera" alt="Coursera"/>
+    </a>
+</div>
