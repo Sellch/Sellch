@@ -33,20 +33,20 @@
 ### Databases:
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/mysql/mysql-original-wordmark.svg" width="60" height="60" title="Jupyter Notebook" alt="Jupyter Notebook"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/postgresql/postgresql-original-wordmark.svg" width="60" height="60" title="NumPy" alt="NumPy"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/postgresql/postgresql-original-wordmark.svg" width="60" height="60" title="PostgreeSQL" alt="PostgreeSQL"/>&nbsp;
 </div>
 
 
 
 ---
 ### DevOps Tools:
-<img src=" https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/docker/docker-original-wordmark.svg" width="50" height="50">
+<img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/docker/docker-original-wordmark.svg" width="50" height="50" title="Docker" alt="Docker"/>
 
 ---
 
 ### My resume you may found on this resourse:
 <a href="https://clck.ru/36aJQN">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/HeadHunter_logo.png" width="40" height="40">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/HeadHunter_logo.png" width="40" height="40" title="hh.ru" alt="hh.ru"/>
 </a>
 
 
