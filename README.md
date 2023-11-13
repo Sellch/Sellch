@@ -1,19 +1,18 @@
 # Hi there 👋 My name is Yaroslav and nice to see you on my repositories page :pager:
 
 
+## Below you can see my skills:
 
-
-## Language:
+### Language:
 <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/python/python-original-wordmark.svg" width="50" height="50">
 
 
-
-## ML tools:
+---
+### ML tools:
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/jupyter/jupyter-original-wordmark.svg" width="50" height="50" title="Jupyter Notebook" alt="Jupyter Notebook"/>&nbsp;
   <img src="https://user-images.githubusercontent.com/67586773/105040771-43887300-5a88-11eb-9f01-bee100b9ef22.png" width="50" height="50" title="NumPy" alt="NumPy"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/
-55609aa5bd817ff167afce0d965585c92040787a/icons/pandas/pandas-original-wordmark.svg" width="50" height="50" title="Pandas" alt="Pandas"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/pandas/pandas-original-wordmark.svg" width="50" height="50" title="Pandas" alt="Pandas"/>&nbsp;
   <img src="https://ww2.freelogovectors.net/wp-content/uploads/2018/07/tensorflow_logo.png?lossy=1&w=2560&ssl=1" width="50" height="50" title="TensorFlow" alt="TensorFlow"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/SCIPY_2.svg/1200px-SCIPY_2.svg.png" width="50" height="50" title="SciPy" alt="SciPy"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/2048px-Created_with_Matplotlib-logo.svg.png" width="50" height="50" title="Matplotlib" alt="Matplotlib"/>&nbsp;
@@ -30,8 +29,8 @@
 
 
 
-
-## Databases:
+---
+### Databases:
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/mysql/mysql-original-wordmark.svg" width="60" height="60" title="Jupyter Notebook" alt="Jupyter Notebook"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/postgresql/postgresql-original-wordmark.svg" width="60" height="60" title="NumPy" alt="NumPy"/>&nbsp;
@@ -39,13 +38,13 @@
 
 
 
-
-## DevOps Tools:
+---
+### DevOps Tools:
 <img src=" https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/docker/docker-original-wordmark.svg" width="50" height="50">
 
- 
+---
 
-## My resume you may found on this resourse:
+### My resume you may found on this resourse:
 <a href="https://clck.ru/36aJQN">
       <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/HeadHunter_logo.png" width="40" height="40">
 </a>
@@ -53,10 +52,3 @@
 
 
 
-
-
-<div>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/jupyter/jupyter-original-wordmark.svg" width="50" height="50" title="Jupyter Notebook" alt="Jupyter Notebook"/>&nbsp;
-  <img src="https://user-images.githubusercontent.com/67586773/105040771-43887300-5a88-11eb-9f01-bee100b9ef22.png" width="50" height="50" title="NumPy" alt="NumPy"/>&nbsp;
-  <img src="https://user-images.githubusercontent.com/67586773/105040771-43887300-5a88-11eb-9f01-bee100b9ef22.png" width="50" height="50" title="NumPy" alt="NumPy"/>&nbsp;
-</div>
